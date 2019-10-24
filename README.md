@@ -1,6 +1,6 @@
 # Build your own GraphQL client workshop project!
 
-[![Gitter](https://badges.gitter.im/graphql-client-workshop/community.svg)](https://gitter.im/graphql-client-workshop/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+__Note: the implementation on this branch follow the slides below until n.81 > [Slides Link](https://advanced-graphql-workshop.netlify.com)__
 
 Join the Gitter room for help, code snippets and easier link access ☝️
 
